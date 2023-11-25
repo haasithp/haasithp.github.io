@@ -1,0 +1,17 @@
+- title:
+  type: time_table
+  contents:
+    - title: MS by Research in ELectronics and Communication Engineering
+      institution: International Institute of Information Technology, Hyderabad, India
+      year: 2021 - Present
+      description:
+        - Advised by <a href="https://nagamanigi.wixsite.com/home">Dr. Nagamanikandan Govindan</a>.
+        - <span>GPA:</span> 8.5/10
+        - <span>Courses taken:</span> Statistical Methods in AI, Mobile Robotics, Robotics Dynamics & Control, Advances in Robotics & Control, Topics in Applied Optimization, Indepednent Study on "Mathematical modelling and simulation of throwing a rigid body"
+    - title: B.E in Electronics and Communication Engineering
+      institution: Anil Neerukonda Institute of Technology and Sciences, Visakhapatnam, India
+      year: 2014 - 2018
+      description:
+        - <span>GPA:</span> 6.93/10
+        - <span>Courses taken:</span> Digital Electronics, Analog Electronics, Advanced Network Theory, Control Systems, Electronic Devices & Circuits, Signals & Systems
+        - <span>Final Project:</span>MEMS based wheel chair.

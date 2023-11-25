@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - haasithp
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - haasithp/haasithp.github.io
+  - haasithp/MR_Assignment_IIITH_2021
+  - haasithp/Fusion2PyBullet
+  - haasithp/SMAI-IIITH-Project-Lenet

@@ -1,7 +1,7 @@
 /* https://github.com/jwarby/jekyll-pygments-themes */
-.highlight pre { background-color: #404040 }
+.highlight pre { background-color: #000000 }
 .highlight .hll { background-color: #404040 }
-.highlight .c { color: #999999; font-style: italic } /* Comment */
+.highlight .c { color: #adadad; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .highlight .g { color: #d0d0d0 } /* Generic */
 .highlight .k { color: #6ab825; font-weight: bold } /* Keyword */
@@ -31,11 +31,11 @@
 .highlight .kr { color: #6ab825; font-weight: bold } /* Keyword.Reserved */
 .highlight .kt { color: #6ab825; font-weight: bold } /* Keyword.Type */
 .highlight .ld { color: #d0d0d0 } /* Literal.Date */
-.highlight .m { color: #3677a9 } /* Literal.Number */
+.highlight .m { color: #a93636 } /* Literal.Number */
 .highlight .s { color: #ed9d13 } /* Literal.String */
 .highlight .na { color: #bbbbbb } /* Name.Attribute */
 .highlight .nb { color: #24909d } /* Name.Builtin */
-.highlight .nc { color: #447fcf; text-decoration: underline } /* Name.Class */
+.highlight .nc { color: #4bcf44; text-decoration: underline } /* Name.Class */
 .highlight .no { color: #40ffff } /* Name.Constant */
 .highlight .nd { color: #ffa500 } /* Name.Decorator */
 .highlight .ni { color: #d0d0d0 } /* Name.Entity */

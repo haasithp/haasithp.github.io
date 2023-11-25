@@ -1,25 +1,5 @@
----
-layout: about
-title: Bio
-permalink: /
-subtitle: <b>Graduate Research Student</b> @ <a href='https://robotics.iiit.ac.in/'>RRC</a> Lab IIIT Hyderabad 
-
-
-profile:
-  align: right
-  image: myimage.jpg
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>IIIT Hyderabad</p>
-    <p>Gachibowli, 500-032</p>
-    <p>Telangana, INDIA</p>
-
-news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
----
-## Welcome to My Tech Universe! 🚀🌐
-Greetings! I'm Haasith Pasala, a researcher at IIIT Hyderabad, exploring the intricate world of robotics under the mentorship of <a href="https://nagamanigi.wixsite.com/home">Dr. Nagamanikandan Govindan</a>. My research focuses on gripper mechanism design, blending trajectory optimization and learning techniques to unlock new dimensions of robotic manipulation.
+### Welcome to My Tech Universe! 🚀🌐
+Greetings! I'm Haasith Pasala, a researcher at IIIT Hyderabad, exploring the intricate world of robotics under the mentorship of Dr. Nagamanikandan Govindan. My research focuses on gripper mechanism design, blending trajectory optimization and learning techniques to unlock new dimensions of robotic manipulation.
 
 Armed with a Master's in Electrical and Computer Engineering from IIIT Hyderabad and a Bachelor's in Electronics and Communication Engineering from ANITS, my academic journey reflects a passion for innovation. During my undergraduate studies, I crafted a MEMS-based wheelchair, showcasing an early commitment to cutting-edge projects.
 

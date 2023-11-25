@@ -1,0 +1,22 @@
+- title:
+  type: time_table
+  contents:
+    - title: Graduate Researcher | Robotics Research Center
+      institution: International Institute of Information Technology, Hyderabad, India
+      year: 2021 - Present
+      description:
+        - Working under the guidance of Dr. Nagamanikandan Govindan on projects related to using mechanism design of grippers using trajectory optimisation and learning techniques.
+    - title: Teaching Assistant | Mechatronics System Design Course
+      institution: IIIT Hyderabad, India
+      year: 2023
+      description:
+        - Worked as TA for the course "Mechatronics System Design" during the Spring Semester, 2023 taken by Dr. Nagamanikandan Govindan. 
+
+    - title: Consultant Engineer 
+      institution: Larsen & Toubro Technology Services, Mysore, India.
+      year: 2019-2020
+      description:
+              - Worked as Automation Test Engineer
+              - Worked on automation of an application on Android and iOS Devices using
+                WebdriverIO Cucumber framework and Appium with Javascript
+    

@@ -7,6 +7,10 @@ first_name: Haasith
 middle_name: Venkata Sai
 last_name: Pasala
 email: haasith.pasala@research.iiit.ac.in
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
 keywords: mechatronics, mechanism design, trajectory optimisation, ros, machine learning, artificial intelligence, deep learning, computer vision, reinfrocement learning, control theory 
 lang: en # the main language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -40,7 +44,7 @@ repo_trophies:
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: true
+navbar_fixed: false
 footer_fixed: true
 
 # Dimensions

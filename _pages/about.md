@@ -29,13 +29,3 @@ Beyond research, I've explored various roles—**consultant engineer, AI prompt 
 
 I’m always excited to collaborate and explore new frontiers in robotics, software, and intelligent systems. Let’s build something amazing together! 🚀
 
-## Abstract of Published Paper
-
-Drones and mobile manipulators that can throw objects in addition to picking and placing them can be highly useful in industrial automation, warehouse environments, search and rescue operations, and sports training. However, predominant end-effectors primarily cater to grasping functions, neglecting the throwing aspect. Currently, throwing is achieved by fast whole-arm motion (Zeng et al., 2020), an approach that raises concerns regarding safety and energy efficiency. Additionally, targeted throwing poses several challenges due to the uncertainties in model parameters and unmodelled dynamics. This letter presents a new end-effector mechanism that can grasp and then place or throw an object using stored elastic energy. The instantaneous release of this stored energy propels the grasped object into projectile motion, facilitating its placement in a desired target location which can lie beyond the reachable workspace of the robot arm. We describe the mechanical design of the end-effector, its simulation model, a system identification method to fit model parameters, and a data-driven residual learning framework. The residual model predicts control input residuals arising from model uncertainties, improving targeted throwing accuracy even with unseen objects. Experiments conducted with our robot arm mounted end-effector show the efficacy of our end-effector mechanism and associated algorithms for targeted throwing.
-
-Published in: IEEE Robotics and Automation Letters (Volume: 9, Issue: 11, November 2024)  
-Page(s): 9558 - 9564  
-Date of Publication: 17 September 2024  
-ISSN Information:  
-DOI: 10.1109/LRA.2024.3462250  
-Publisher: IEEE

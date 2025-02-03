@@ -1,11 +1,17 @@
 - title:
   type: time_table
   contents:
+    - title: Embedded Software Engineer
+      institution: Miko, Mumbai, India
+      year: 2024 - Present
+      description:
+        - Working on developing the software related to Miko Mini robot.
+        - Working on ALSA integration for audio recording and playback on Miko Mini.
     - title: Graduate Researcher | Robotics Research Center
       institution: International Institute of Information Technology, Hyderabad, India
-      year: 2021 - Present
+      year: 2021 - 2024
       description:
-        - Working under the guidance of Dr. Nagamanikandan Govindan on projects related to using mechanism design of grippers using trajectory optimisation and learning techniques.
+        - Worked under the guidance of Dr. Nagamanikandan Govindan on projects related to using mechanism design of grippers using trajectory optimisation and learning techniques.
     - title: Teaching Assistant | Mechatronics System Design Course
       institution: IIIT Hyderabad, India
       year: 2023

@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Haasith 
 middle_name: Venkata Sai
 last_name: Pasala
-email: haasith.pasala@research.iiit.ac.in
+email: haasithpasala@gmail.com
 keywords: mechatronics, mechanism design, trajectory optimisation, ros, machine learning, artificial intelligence, deep learning, computer vision, reinfrocement learning, control theory 
 lang: en # the main language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

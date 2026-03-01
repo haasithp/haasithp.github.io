@@ -1,17 +1,30 @@
 - title:
   type: time_table
   contents:
+    - title: Technical Lead (Consultant)
+      institution: Stealth Mode Company, Remote
+      year: Jul. 2025 - Present
+      description:
+        - Engineered the complete autonomy stack and environment setup for a Unitree Go2W quadruped robot.
+        - Designed and integrated a robust state estimation pipeline utilizing FAST-LIO, D-LIO, and RTAB-Map.
+        - Configured Nav2 and implemented whole-body control frameworks.
+        - Containerized the full simulation and deployment stack using Docker and provisioned AWS EC2 instances.
     - title: Embedded Software Engineer
       institution: Miko, Mumbai, India
-      year: 2024 - Present
+      year: Jun. 2024 - Jun. 2025
       description:
-        - Working on developing the software related to Miko Mini robot.
-        - Working on ALSA integration for audio recording and playback on Miko Mini.
+        - Re-architected the "Miko Dance" feature for offline execution by replacing WebSocket-dependent network calls.
+        - Led hardware-software system bring-up and validation.
+        - Developed and integrated ALSA-based audio subsystems on ARM embedded Linux.
+        - Implemented low-level C/C++ software drivers to configure the TAS2563 audio amplifier.
     - title: Graduate Researcher | Robotics Research Center
       institution: International Institute of Information Technology, Hyderabad, India
-      year: 2021 - 2024
+      year: Sep. 2021 - Jun. 2024
       description:
-        - Worked under the guidance of Dr. Nagamanikandan Govindan on projects related to using mechanism design of grippers using trajectory optimisation and learning techniques.
+        - Engineered an advanced perception pipeline for throwing manipulation by deploying PointNet++.
+        - Formulated rigid body dynamics and implemented trajectory optimization algorithms.
+        - Designed and integrated a novel hybrid end-effector with an XArm7 robotic arm and mobile base.
+        - Conducted two-stage parameter identification and applied optimization techniques.
     - title: Teaching Assistant | Mechatronics System Design Course
       institution: IIIT Hyderabad, India
       year: 2023
@@ -20,9 +33,8 @@
 
     - title: Consultant Engineer 
       institution: Larsen & Toubro Technology Services, Mysore, India.
-      year: 2019-2020
+      year: Mar. 2019 - Jun. 2020
       description:
-              - Worked as Automation Test Engineer
-              - Worked on automation of an application on Android and iOS Devices using
-                WebdriverIO Cucumber framework and Appium with Javascript
-    
+        - Engineered end-to-end automation testing frameworks for a regulated mobile medical application.
+        - Designed and executed cross-platform automated testing pipelines for iOS and Android environments.
+        - Programmed scalable test features and step definitions in Java (TestNG) and JavaScript.

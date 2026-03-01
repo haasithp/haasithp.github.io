@@ -25,3 +25,5 @@ group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
 end
+
+gem "rake", "~> 13.3"

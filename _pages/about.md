@@ -9,9 +9,9 @@ profile:
   image: myimage.jpg
   image_circular: true # crops the image to make it circular
   more_info: 
-    <p>Dadar East</p>
-    <p>Mumbai</p>
-    <p>Maharastra, INDIA</p>
+    <p>Hyderabad</p>
+    <p>500084</p>
+    <p>INDIA</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

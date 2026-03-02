@@ -17,9 +17,25 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-## Welcome to My Tech Universe! 🚀🌐
+## Building Autonomy & Intelligence for Robotics 🤖
 
 I'm a curious mind who loves pushing the limits of robotics, embedded systems, and intelligent software. Whether it's designing a gripper that seamlessly switches between grasping and throwing, optimizing a robot’s audio for a more interactive experience, or fine-tuning real-time control systems, I thrive on turning complex challenges into elegant solutions. Every project is a chance to innovate, explore, and bring futuristic ideas to life!
+
+### Featured Robotics Research
+<div class="row mt-3">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <iframe width="100%" height="250" class="rounded z-depth-1" src="https://www.youtube.com/embed/1REb7JnupX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="caption mt-2 text-center" style="font-size: 0.9rem;">
+            A Novel Hybrid Gripper Capable of Grasping and Throwing (IEEE T-MECH)
+        </div>
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <iframe width="100%" height="250" class="rounded z-depth-1" src="https://www.youtube.com/embed/U9QqPYyQqn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="caption mt-2 text-center" style="font-size: 0.9rem;">
+            Learning-Based Control for Targeted Throwing (IEEE RA-L)
+        </div>
+    </div>
+</div>
 
 Currently, I’m a **Technical Lead (Consultant)** at a Stealth Mode Company, focusing on quadruped autonomy stacks. Before this, I was an **Embedded Software Engineer at Miko** developing firmware for production consumer robots, and a **Research Assistant at IIIT Hyderabad**, where I dived deep into robotic manipulation, trajectory optimization, and hardware-software integration.
 

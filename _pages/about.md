@@ -21,6 +21,42 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a curious mind who loves pushing the limits of robotics, embedded systems, and intelligent software. Whether it's designing a gripper that seamlessly switches between grasping and throwing, optimizing a robot’s audio for a more interactive experience, or fine-tuning real-time control systems, I thrive on turning complex challenges into elegant solutions. Every project is a chance to innovate, explore, and bring futuristic ideas to life!
 
+<h3 class="mt-4">Core Competencies</h3>
+<div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
+  <div class="col">
+    <div class="card h-100 hoverable">
+      <div class="card-body">
+        <h5 class="card-title font-weight-bold">Hardware & Mechanism Design</h5>
+        <p class="card-text text-muted" style="font-size: 0.9rem;">Novel hybrid end-effectors, multi-DOF prosthetics, Actuator Characterization</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100 hoverable">
+      <div class="card-body">
+        <h5 class="card-title font-weight-bold">Control Systems</h5>
+        <p class="card-text text-muted" style="font-size: 0.9rem;">Trajectory Optimization, Real-time PID algorithms, Dynamic Control Formulation</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100 hoverable">
+      <div class="card-body">
+        <h5 class="card-title font-weight-bold">Autonomy & Navigation</h5>
+        <p class="card-text text-muted" style="font-size: 0.9rem;">Quadruped Autonomy Stacks, Visual SLAM, Data-driven Model Learning</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100 hoverable">
+      <div class="card-body">
+        <h5 class="card-title font-weight-bold">Embedded Software</h5>
+        <p class="card-text text-muted" style="font-size: 0.9rem;">Production Firmware (C++), Hardware-Software Integration, ROS/ROS2 Automation</p>
+      </div>
+    </div>
+  </div>
+</div>
+
 ### Featured Robotics Research
 <div class="row mt-3">
     <div class="col-sm-6 mt-3 mt-md-0">

@@ -61,17 +61,19 @@ I am open to remote robotics engineering roles and high-impact freelance engagem
 </div>
 
 ### Featured Robotics Research
-<div class="row mt-3">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        <iframe width="100%" height="250" class="rounded z-depth-1" src="https://www.youtube.com/embed/1REb7JnupX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <div class="caption mt-2 text-center" style="font-size: 0.9rem;">
-            A Novel Hybrid Gripper Capable of Grasping and Throwing (IEEE T-MECH)
+
+<div class="row mt-3 g-4">
+    <div class="col-sm-6">
+        <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:6px;">
+            <iframe src="https://www.youtube.com/embed/1REb7JnupX8" title="A Novel Hybrid Gripper Capable of Grasping and Throwing (IEEE T-MECH)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
         </div>
+        <p class="caption mt-2 text-center" style="font-size: 0.9rem;">A Novel Hybrid Gripper Capable of Grasping and Throwing (IEEE T-MECH)</p>
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        <iframe width="100%" height="250" class="rounded z-depth-1" src="https://www.youtube.com/embed/U9QqPYyQqn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <div class="caption mt-2 text-center" style="font-size: 0.9rem;">
-            Learning-Based Control for Targeted Throwing (IEEE RA-L)
+    <div class="col-sm-6">
+        <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:6px;">
+            <iframe src="https://www.youtube.com/embed/U9QqPYyQqn8" title="Learning-Based Control for Targeted Throwing (IEEE RA-L)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
         </div>
+        <p class="caption mt-2 text-center" style="font-size: 0.9rem;">Learning-Based Control for Targeted Throwing (IEEE RA-L)</p>
     </div>
 </div>
+

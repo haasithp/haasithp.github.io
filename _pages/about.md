@@ -61,17 +61,18 @@ I am open to remote robotics engineering roles and high-impact freelance engagem
 </div>
 
 ### Featured Robotics Research
-<div class="row mt-3">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        <iframe width="100%" height="250" class="rounded z-depth-1" src="https://www.youtube.com/embed/1REb7JnupX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <div class="caption mt-2 text-center" style="font-size: 0.9rem;">
-            A Novel Hybrid Gripper Capable of Grasping and Throwing (IEEE T-MECH)
-        </div>
+
+<div class="row mt-3 g-3">
+  <div class="col-12 col-sm-6">
+    <div class="ratio ratio-16x9 rounded z-depth-1">
+      <iframe src="https://www.youtube.com/embed/1REb7JnupX8" title="A Novel Hybrid Gripper Capable of Grasping and Throwing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        <iframe width="100%" height="250" class="rounded z-depth-1" src="https://www.youtube.com/embed/U9QqPYyQqn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <div class="caption mt-2 text-center" style="font-size: 0.9rem;">
-            Learning-Based Control for Targeted Throwing (IEEE RA-L)
-        </div>
+    <p class="caption mt-2 text-center" style="font-size:0.85rem;">A Novel Hybrid Gripper Capable of Grasping and Throwing (IEEE T-MECH)</p>
+  </div>
+  <div class="col-12 col-sm-6">
+    <div class="ratio ratio-16x9 rounded z-depth-1">
+      <iframe src="https://www.youtube.com/embed/U9QqPYyQqn8" title="Learning-Based Control for Targeted Throwing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
+    <p class="caption mt-2 text-center" style="font-size:0.85rem;">Learning-Based Control for Targeted Throwing (IEEE RA-L)</p>
+  </div>
 </div>

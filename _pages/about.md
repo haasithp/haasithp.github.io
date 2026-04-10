@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: "Robotics Systems Engineer · ROS2 · SLAM · Sim-to-Real · MuJoCo · IEEE RA-L published"
 

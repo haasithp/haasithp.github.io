@@ -17,9 +17,18 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-## Building Autonomy & Intelligence for Robotics 🤖
 
-I'm a curious mind who loves pushing the limits of robotics, embedded systems, and intelligent software. Whether it's designing a gripper that seamlessly switches between grasping and throwing, optimizing a robot’s audio for a more interactive experience, or fine-tuning real-time control systems, I thrive on turning complex challenges into elegant solutions. Every project is a chance to innovate, explore, and bring futuristic ideas to life!
+<div class="embed-responsive embed-responsive-16by9 mb-4" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/V5aE0MNK9YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+I'm a Robotics Systems Engineer specializing in sim-to-real deployment, SLAM, and full-stack autonomy for legged robots. My work spans MuJoCo physics simulation, ROS2 autonomy stacks (Nav2, FAST-LIO, D-LIO), real-time C++ control, and embedded Linux firmware — from sensor driver to deployed hardware.
+
+My research on robotic throwing manipulation was published in IEEE Robotics and Automation Letters (RA-L) and IEEE/ASME Transactions on Mechatronics, and featured twice in IEEE Spectrum.
+
+Most recently I built and deployed a complete autonomy stack for legged robots in GPS-denied industrial environments — underground tunnels and high-voltage power substations — using FAST-LIO, Nav2, and custom locomotion controllers on Boston Dynamics Spot.
+
+I am open to remote robotics engineering roles and high-impact freelance engagements worldwide.
 
 <h3 class="mt-4">Core Competencies</h3>
 <div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
@@ -72,12 +81,4 @@ I'm a curious mind who loves pushing the limits of robotics, embedded systems, a
         </div>
     </div>
 </div>
-
-Currently, I’m a **Technical Lead (Consultant)** at a Stealth Mode Company, focusing on quadruped autonomy stacks. Before this, I was an **Embedded Software Engineer at Miko** developing firmware for production consumer robots, and a **Research Assistant at IIIT Hyderabad**, where I dived deep into robotic manipulation, trajectory optimization, and hardware-software integration.
-
-I hold an **MS by Research in Electrical and Computer Engineering from IIIT Hyderabad** and a **BE in Electronics and Communication Engineering from ANITS**. My research has led me to develop novel gripper mechanisms, refine parameter identification techniques, and optimize motion planning. My work has been published in *IEEE Robotics and Automation Letters (RA-L)* and *IEEE/ASME Transactions on Mechatronics* and even featured in *IEEE Spectrum*.
-
-Beyond research, I've explored various roles—**consultant engineer, AI prompt engineer, and software developer**—tackling challenges across robotics, automation, and machine learning. My projects range from building intelligent robotic end-effectors to optimizing embedded systems and applying deep learning for 3D object recognition.
-
-I’m always excited to collaborate and explore new frontiers in robotics, software, and intelligent systems. Let’s build something amazing together! 🚀
 

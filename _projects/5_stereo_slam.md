@@ -3,7 +3,7 @@ layout: page
 title: Stereo SLAM System Development
 description: "Robust 1D and 2D SLAM pipeline utilizing C++, OpenCV, and Pose-Graph Optimization."
 img: assets/img/thumb_slam.png
-importance: 1
+importance: 2
 category: computer-vision
 tags: [SLAM, C++, OpenCV, Robotics, 3D-Reconstruction]
 keywords: SLAM, Simultaneous Localization and Mapping, OpenCV, Pose-Graph Optimization, Bundle Adjustment, Perspective-n-Point, C++, Computer Vision

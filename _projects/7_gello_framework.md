@@ -3,7 +3,7 @@ layout: page
 title: GELLO Framework for XArm Teleoperation
 description: "End-to-end teleoperation and imitation learning architecture using the GELLO framework."
 img: assets/img/thumb_gello.png
-importance: 3
+importance: 5
 category: robotics
 tags: [Robotics, Teleoperation, Imitation-Learning, Kinematics, ROS]
 keywords: GELLO Framework, XArm, Teleoperation, Imitation Learning, ROS, Kinematics, Leader-Follower, Remote Manipulation

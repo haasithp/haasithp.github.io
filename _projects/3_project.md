@@ -3,7 +3,7 @@ layout: page
 title: Pose Graph Optimization and Trajectory Evaluation
 description: "Mathematical backend optimization to correct trajectory drift for mobile navigating robots."
 img: assets/img/thumb_mobile_robot.png
-importance: 3
+importance: 7
 category: mobile-robotics
 tags: [Mobile-Robotics, SLAM, Optimization, Trajectory, Mathematics]
 keywords: Pose Graph Optimization, Trajectory Evaluation, Mobile Robotics, SLAM, Loop Closure, State Estimation, Robotics Course Project

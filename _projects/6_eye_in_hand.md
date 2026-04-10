@@ -3,7 +3,7 @@ layout: page
 title: Eye-in-Hand Visual Servoing for Dynamic Tracking
 description: "Active visual servoing control loop using an XArm manipulator and an RGB-D camera."
 img: assets/img/thumb_visual_servoing.png
-importance: 2
+importance: 4
 category: robotics
 tags: [Robotics, Visual-Servoing, ROS, RGB-D, Control-Theory]
 keywords: Eye-in-Hand, Visual Servoing, Dynamic Tracking, OpenCV, ROS TF, ArUco markers, XArm manipulator, Control Loop, C++, Python

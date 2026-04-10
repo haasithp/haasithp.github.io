@@ -3,7 +3,7 @@ layout: page
 title: Gradient-Based Learning Applied to Document Recognition
 description: "Implementation of a Convolutional Neural Network (LeNet architecture) for text analysis."
 img: assets/img/thumb_lenet.png
-importance: 1
+importance: 8
 category: deep-learning
 tags: [Deep-Learning, CNN, Python, Computer-Vision, Neural-Networks]
 keywords: LeNet, Convolutional Neural Network, Document Recognition, Deep Learning, Statistical Methods in AI, PyTorch, Handwriting Recognition

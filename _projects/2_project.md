@@ -3,7 +3,7 @@ layout: page
 title: Application of PID Control on a Bionic-Hand
 description: "Multi-DOF hardware and Mujoco simulation applying PID loops to actuate a bionic hand."
 img: assets/img/thumb_bionic_hand.png
-importance: 2
+importance: 3
 category: robotics
 tags: [Control-Systems, PID, Hardware, Mujoco, Simulation]
 keywords: PID Control, Bionic Hand, Robotics, Mujoco Simulation, Kinematics, Control Theory, Actuation, Advances in Robotics and Control

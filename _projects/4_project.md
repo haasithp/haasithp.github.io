@@ -3,7 +3,7 @@ layout: page
 title: Mathematical Modelling of Throwing a Rigid Body
 description: "Independent Study formulating the rigid body dynamics and initial conditions for dynamic robotic throwing."
 img: assets/img/thumb_throwing.png
-importance: 4
+importance: 6
 category: robotics-dynamics
 tags: [Dynamics, Simulation, Robotic-Manipulation, Mathematics, Physics]
 keywords: Mathematical Modelling, Simulation, Rigid Body, Throwing Manipulation, Kinematics, Dynamics, Optimization, Independent Study

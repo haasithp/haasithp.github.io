@@ -2,7 +2,7 @@
 layout: page
 title: Boston Dynamics Spot — Autonomous Navigation in Tunnels & Power Substations
 description: LiDAR-inertial SLAM, ROS2 navigation stack, and custom controller for Spot in GPS-denied industrial environments
-img: assets/img/thumb_mobile_robot.png
+img: assets/img/thumb_spot_fastlio.png
 importance: 1
 category: robotics
 ---

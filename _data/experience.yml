@@ -5,9 +5,9 @@
       institution: Clove Technologies, Hyderabad, India
       year: May 2026 - Present
       description:
-        - Lead for the Robotics Division, managing the AI & Robotics R&D team and establishing the technical roadmap for advanced robotic platforms.
-        - Developing and optimizing reinforcement learning pipelines using Isaac Lab to train highly robust, learning-based locomotion policies.
-        - Bridging classical navigation stacks with AI-driven approaches to solve complex mobility challenges, enabling reliable stair climbing and navigation in structured environments like warehouses and buildings.
+        - Developing reinforcement learning locomotion policies in Isaac Lab and Sim-to-Real workflows, integrating them with Nav2 stacks for robust legged navigation.
+        - Building real-time multi-camera CCTV tracking pipelines using classical computer vision techniques (multi-object tracking, homography, feature association).
+        - Integrating Vision-Language Models (VLMs) into edge/server surveillance systems for natural-language query and automated visual event detection.
     - title: Technical Lead (Consultant)
       institution: Stealth Mode Company, Remote
       year: Jul. 2025 - May 2026

@@ -1,9 +1,16 @@
 - title:
   type: time_table
   contents:
+    - title: Robotics Engineer
+      institution: Clove Technologies, Hyderabad, India
+      year: May 2026 - Present
+      description:
+        - Lead for the Robotics Division, managing the AI & Robotics R&D team and establishing the technical roadmap for advanced robotic platforms.
+        - Developing and optimizing reinforcement learning pipelines using Isaac Lab to train highly robust, learning-based locomotion policies.
+        - Bridging classical navigation stacks with AI-driven approaches to solve complex mobility challenges, enabling reliable stair climbing and navigation in structured environments like warehouses and buildings.
     - title: Technical Lead (Consultant)
       institution: Stealth Mode Company, Remote
-      year: Jul. 2025 - Present
+      year: Jul. 2025 - May 2026
       description:
         - Engineered the complete autonomy stack and environment setup for a Unitree Go2W quadruped robot.
         - Designed and integrated a robust state estimation pipeline utilizing FAST-LIO, D-LIO, and RTAB-Map.

@@ -2,27 +2,25 @@
 layout: about
 title: About
 permalink: /
-subtitle: "Robotics Systems Engineer · ROS2 · SLAM · Sim-to-Real · MuJoCo · IEEE RA-L published"
+subtitle: "Robotics Systems Engineer · ROS2 · SLAM · Sim-to-Real · Isaac Lab · MuJoCo · IEEE RA-L published"
 
 profile:
   align: right
   image: myimage.jpg
   image_circular: true
   more_info: >
-    <p>Hyderabad, India · Open to remote worldwide</p>
+    <p>Hyderabad, India</p>
 
 news: true
 selected_papers: false
 social: true
 ---
 
-I'm a Robotics Systems Engineer specializing in sim-to-real deployment, SLAM, and full-stack autonomy for legged robots. My work spans MuJoCo physics simulation, ROS2 autonomy stacks (Nav2, FAST-LIO, D-LIO), real-time C++ control, and embedded Linux firmware — from sensor driver to deployed hardware.
+I'm a Robotics Systems Engineer and Lead for the Robotics Division at Clove Technologies, specializing in reinforcement learning locomotion, sim-to-real deployment, SLAM, and full-stack autonomy for legged robots. My work spans Isaac Lab and MuJoCo physics simulation, ROS2 autonomy stacks (Nav2, FAST-LIO, D-LIO), real-time C++ control, and embedded Linux firmware — from sensor drivers to deployed hardware.
 
 My research on robotic throwing manipulation was published in IEEE Robotics and Automation Letters (RA-L) and IEEE/ASME Transactions on Mechatronics, and featured twice in IEEE Spectrum.
 
-Most recently I built and deployed a complete autonomy stack for legged robots in GPS-denied industrial environments — underground tunnels and high-voltage power substations — using FAST-LIO, Nav2, and custom locomotion controllers on Boston Dynamics Spot.
-
-I am open to remote robotics engineering roles and high-impact freelance engagements worldwide.
+I have engineered autonomy stacks and state estimation pipelines for complex legged platforms (Unitree Go2W, Boston Dynamics Spot) across GPS-denied industrial environments using FAST-LIO, Nav2, and whole-body control frameworks.
 
 <h3 class="mt-4">Core Competencies</h3>
 <div class="row row-cols-1 row-cols-md-2 g-4 mb-4">

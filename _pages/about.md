@@ -16,7 +16,7 @@ selected_papers: false
 social: true
 ---
 
-I'm a Robotics Systems Engineer and Lead for the Robotics Division at Clove Technologies, specializing in reinforcement learning locomotion, sim-to-real deployment, SLAM, and full-stack autonomy for legged robots. My work spans Isaac Lab and MuJoCo physics simulation, ROS2 autonomy stacks (Nav2, FAST-LIO, D-LIO), real-time C++ control, and embedded Linux firmware — from sensor drivers to deployed hardware.
+I'm a Robotics Systems Engineer and Lead for the Robotics Division at Clove Technologies, working across reinforcement learning, legged autonomy, and computer vision. My work spans Isaac Lab and MuJoCo simulation, learning-based locomotion, ROS2 autonomy stacks (Nav2, FAST-LIO), and intelligent video surveillance pipelines leveraging classical CV and Vision-Language Models (VLMs).
 
 My research on robotic throwing manipulation was published in IEEE Robotics and Automation Letters (RA-L) and IEEE/ASME Transactions on Mechatronics, and featured twice in IEEE Spectrum.
 
@@ -43,8 +43,8 @@ I have engineered autonomy stacks and state estimation pipelines for complex leg
   <div class="col">
     <div class="card h-100 hoverable">
       <div class="card-body">
-        <h5 class="card-title font-weight-bold">Autonomy & Navigation</h5>
-        <p class="card-text text-muted" style="font-size: 0.9rem;">Quadruped Autonomy Stacks, Visual SLAM, Data-driven Model Learning</p>
+        <h5 class="card-title font-weight-bold">Autonomy & Perception</h5>
+        <p class="card-text text-muted" style="font-size: 0.9rem;">Quadruped Autonomy (Nav2), Visual SLAM, Multi-Camera Tracking & VLMs</p>
       </div>
     </div>
   </div>
